@@ -1,5 +1,5 @@
 # 💫 About Me :
-Hi 👋, I'm John Emmerechts, a Software Engineer 👨‍💻 
+Hi 👋, I'm John Emmerechts, a Digital Altruist 💡🌍
 
 🔭 I am passionate about web development, new technologies and learning things like Machine Learning 🤖
 
