@@ -1,5 +1,6 @@
 # 💫 About Me :
-Hi 👋, I'm John Emmerechts, a Software Engineer 👨‍💻 working at France Télévision 📺
+Hi 👋, I'm John Emmerechts, a Software Engineer 👨‍💻 
+// working at France Télévision 📺
 
 🔭 I am passionate about web development, new technologies and learning things like Machine Learning 🤖
 
