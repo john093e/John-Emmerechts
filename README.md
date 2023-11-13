@@ -3,7 +3,7 @@ Hi 👋, I'm John Emmerechts, a Digital Altruist 💡🌍
 
 🔭 I am passionate about web development, new technologies and learning things like Machine Learning 🤖
 
-🌱 I’m currently learning the NextJS 13 with react 18 and Typescript | TurboRepo
+🌱 I’m currently learning the NextJS 14 with react 18 and Typescript | TurboRepo
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/john93e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnemmerechts/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/john093e) 
