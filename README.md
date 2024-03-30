@@ -7,10 +7,8 @@
 
 ### Digital Altruist 💡🌍
 
-* 👨‍💻  Currently working on a Future Proof 360 Digital Platform to shine online.
-* 🤝  Open Source Enthusiast
+* 👨‍💻  Currently working on a 360 Digital Platform to shine online.
 * 🌍  Based in Belgium 🇧🇪
-* 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
 
 
 ### 💻 Tech I'm passionate about
