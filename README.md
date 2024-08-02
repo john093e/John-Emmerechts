@@ -2,7 +2,7 @@
 
 🔭 I am passionate about web development, new technologies and learning things like Machine Learning 🤖
 
-🌱 I’m currently learning the NextJS 14 with react 18 and Typescript | TurboRepo
+🌱 I’m currently learning the NextJS 15 with react 19 and Typescript | TurboRepo
 
 
 ### Digital Altruist 💡🌍
